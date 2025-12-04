@@ -4,17 +4,16 @@
   <circle cx="36" cy="25" r="10" fill="#0f0f1a"/>
   <path d="M32 25L35 28L41 22" stroke="#0ea5e9" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
   
-  <!-- Text -->
-  <text x="72" y="38" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="26" font-weight="700" fill="#ffffff">Snaps </text>
-  <text x="144" y="38" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="26" font-weight="700" fill="url(#grad2)">Microsystems</text>
-  <text x="72" y="54" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="9" font-weight="600" letter-spacing="3" fill="#94a3b8">GEOSPATIAL TECHNOLOGY</text>
+  <!-- Text - Name -->
+  <text x="72" y="32" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="20" font-weight="700" fill="url(#grad2)">Nchoolwe P. Sinampande</text>
+  <text x="72" y="52" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="10" font-weight="500" letter-spacing="2" fill="#94a3b8">GEOSPATIAL • IM CONSULTANT</text>
   
   <defs>
     <linearGradient id="grad1" x1="18" y1="8" x2="54" y2="56" gradientUnits="userSpaceOnUse">
       <stop stop-color="#6366f1"/>
       <stop offset="1" stop-color="#0ea5e9"/>
     </linearGradient>
-    <linearGradient id="grad2" x1="144" y1="20" x2="290" y2="50" gradientUnits="userSpaceOnUse">
+    <linearGradient id="grad2" x1="72" y1="20" x2="300" y2="40" gradientUnits="userSpaceOnUse">
       <stop stop-color="#6366f1"/>
       <stop offset="1" stop-color="#0ea5e9"/>
     </linearGradient>
